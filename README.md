@@ -1,4 +1,10 @@
 # MUST INCLUDE AT LEAST 25 QUESTIONS AND 10 ENDINGS
+#theme: who knows
 
-THEME: BREAKING BAD /n
-nvm, school doesnt like anything thats not rainbows and flowers
+project = mid
+
+class = mid
+
+school = mid
+
+bladee = peak
