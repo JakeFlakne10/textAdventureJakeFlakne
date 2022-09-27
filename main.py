@@ -1,6 +1,8 @@
+#importing
 import time
 from time import *
 
+#define clear command
 def clear():
     os.system('cls')
 
