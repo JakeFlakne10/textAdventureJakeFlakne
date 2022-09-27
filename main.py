@@ -8,7 +8,7 @@ def clear():
 
 def Question1():
     #Rules
-    print("Input sensitive, Y/N only")
+    print("Input sensitive, Capitilization is important")
     clear()
 
     #Story
@@ -76,4 +76,25 @@ def Question3():
         start()
 
 def Question4():
-    print("The enevitable happens, there are no more endings, you create your own")
+    #Story
+    clear()
+    print("You keep playing guitar, you really like it, it quites the voices.")
+
+    #Question 3
+    a3 = input("")
+
+    #input Y
+    if a3 == "Y":
+        Question5()
+
+    #input N
+    elif a3 == "N":
+        print("")
+
+    #invalid input
+    else:
+        print("INVALID INPUT")
+        clear()
+        start()
+
+print(Question1())
