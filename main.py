@@ -1,6 +1,8 @@
 #importing
 import time
 from time import *
+import os
+from os import *
 
 #define clear command
 def clear():
